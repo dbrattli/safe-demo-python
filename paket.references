@@ -1,0 +1,5 @@
+group Build
+
+Fake.Core.Target
+Fake.IO.FileSystem
+Farmer
